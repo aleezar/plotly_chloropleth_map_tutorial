@@ -8,5 +8,4 @@ This repository contains a jupyter notebook titled CMSE402_plotly_chloropleth_ma
 
 The dataset used can be found at: https://www.kaggle.com/code/sasakitetsuya/global-hunger-index-analysis/input
 
-This repository also contains a writeup detailing motivation for choosing plotly, key findings from the course, and challenges faced while creating the tutorial.
 

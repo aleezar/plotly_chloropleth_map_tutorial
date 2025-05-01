@@ -1,4 +1,4 @@
-# PlotlyChloroplethMapTutorial
+# Plotly Chloropleth Map Tutorial
 Interactive Choropleth Map Tutorial: Visualizing the Global Hunger Index
 
 # Overview
